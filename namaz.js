@@ -53,10 +53,8 @@
 
                 table.appendChild(row);
 
+
                 
             });
-
-
-
 
             }
